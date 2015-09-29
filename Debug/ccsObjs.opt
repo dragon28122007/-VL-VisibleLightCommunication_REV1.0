@@ -1,0 +1,1 @@
+"./SystemConfig.obj" "./main.obj" "./startup_ccs.obj" "./Timer/Timer.obj" "./Long/long_uart.obj" "./Long/ringbuf.obj" "./Button/Button.obj" "../tm4c123gh6pm.cmd" -l"libc.a" -l"D:\TI\TivaWare\driverlib\ccs\Debug\driverlib.lib" 
